@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grab Installer</string>
+    <string name="signing_in_string">Signing in...</string>
+    <string name="available_apps_string">Available Apps</string>
+    <string name="downloading_build_string">Downloading your selected build...</string>
+    <string name="sign_in_error">Sign-in failed. Click here to try again.</string>
+</resources>
